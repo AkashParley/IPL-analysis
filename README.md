@@ -1,9 +1,15 @@
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/f3b971a5-50b4-4c42-9a65-221db588334f" width="800" height="300" "/>
+  
+</p>
+
 # 🏏 IPL Data Analysis
 
 ## 📌 Overview
 The **IPL Data Analysis** project aims to extract valuable insights from IPL match data using data analytics techniques. By analyzing historical match outcomes, player performances, team comparisons, and venue statistics, the project visualizes trends and patterns through interactive graphs like bar charts, line graphs, and scatter plots.
 
-With Python’s powerful libraries like **Pandas, Matplotlib, and Seaborn**, this project provides a comprehensive overview of IPL data for **in-depth analysis and decision-making**.
+With Python’s powerful libraries like **Pandas, Matplotlib, and Seaborn**, and **Tableau for advanced dashboards**, this project provides a comprehensive overview of IPL data for **in-depth analysis and decision-making**.
 
 ---
 
@@ -35,15 +41,40 @@ With Python’s powerful libraries like **Pandas, Matplotlib, and Seaborn**, thi
 
 ---
 
-## 🛠️ Tech Stack
-- **Programming Language:** Python 🐍  
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
-- **Data Visualization:** Bar Charts, Line Graphs, Scatter Plots, Heatmaps, Pie Charts  
+## 📊 Tableau Dashboards
+
+🔹 **Overall Team Analysis Dashboard**  
+🔹 **Batting Statistics Dashboard**  
+🔹 **Bowling Statistics Dashboard**  
+
+📌 Check out the interactive Tableau dashboards here:  
+**👉 View Dashboards**  
+
+[Team Analysis Dashboard](https://public.tableau.com/views/IPLDataAnalysis_17393967228710/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+<img width="1429" alt="Screenshot 2025-01-14 at 7 27 17 AM" src="https://github.com/user-attachments/assets/5a3e1cb8-d3c3-473e-925c-9ee8b4bbab22" />
 
 ---
 
-## 📊 Sample Visualizations
-🎨 *Add images of graphs here (e.g., win percentage chart, player performance scatter plot, etc.)*  
+
+**[Player Stats Analysis Dashboard](https://public.tableau.com/views/Playerperformancedashboard_17393957507580/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
+**Batting Stats Dashboard**
+-
+<img width="1470" alt="Screenshot 2025-02-02 at 9 42 10 AM" src="https://github.com/user-attachments/assets/7b67ede3-4987-4f45-aafc-e9797ab47369" />
+
+
+**Bowling Stats Dashboard**
+-
+<img width="1470" alt="Screenshot 2025-02-02 at 9 41 48 AM" src="https://github.com/user-attachments/assets/72dcb96b-3f57-4f02-ad04-fa740e712c58" />
+
+
+---
+
+## 🛠️ Tech Stack
+- **Programming Language:** Python 🐍  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
+- **Data Visualization:** Tableau, Bar Charts, Line Graphs, Scatter Plots, Heatmaps, Pie Charts  
 
 ---
 
